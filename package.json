@@ -1,0 +1,23 @@
+{
+  "name": "launchpad-game-of-life",
+  "version": "0.0.1",
+  "description": "Conway's Game of Life running on the Launchpad Mini",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pleeko/launchpad-game-of-life.git"
+  },
+  "author": "pleeko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pleeko/launchpad-game-of-life/issues"
+  },
+  "homepage": "https://github.com/pleeko/launchpad-game-of-life#readme",
+  "dependencies": {
+    "launchpad-mini": "^2.3.1"
+  }
+}
